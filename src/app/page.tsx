@@ -188,7 +188,7 @@ export default function CostumeGenerator() {
             </CardHeader>
             <CardContent>
               <p className="mb-4 text-lg">
-                Get ready for a magical Halloween adventure! Our Costume Creator will help you find the perfect costume for trick-or-treating. Let's make some spooky magic together! 🧙‍♂️✨
+                Get ready for a magical Halloween adventure! Our Costume Creator will help you find the perfect costume for trick-or-treating. Let&apos;s make some spooky magic together! 🧙‍♂️✨
               </p>
               <div className="grid grid-cols-2 gap-4 mb-6">
                 {exampleCostumes.map((costume, index) => (
